@@ -1,0 +1,1 @@
+# hkpartner-auth-verify.
